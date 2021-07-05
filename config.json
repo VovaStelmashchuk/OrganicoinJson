@@ -8,5 +8,10 @@
         "id": "pressure",
         "min": 700, 
         "max": 750
+    },
+    {
+        "id":"alcohol",
+        "min": 0.0,
+        "max":0.4,
     }
 ]
