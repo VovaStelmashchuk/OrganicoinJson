@@ -1,0 +1,12 @@
+[
+    {
+        "id": "temperature",
+        "min": 22, 
+        "max": 30
+    },
+    {
+        "id": "pressure",
+        "min": 700, 
+        "max": 750
+    }
+]
