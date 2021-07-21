@@ -8,34 +8,449 @@
         "max": 30
       },
       {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
         "id": "pressure",
-        "min": 700,
-        "max": 750
+        "min": 800,
+        "max": 990
       },
       {
         "id": "alcohol",
-        "min": 0.0,
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 159.4,
+        "max": 324.7
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
         "max": 0.4
       }
     ]
   },
   {
-    "name": "Orange",
+    "name": "Apricot",
     "params": [
       {
         "id": "temperature",
-        "min": 40,
-        "max": 50
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
       },
       {
         "id": "pressure",
-        "min": 70,
-        "max": 100
+        "min": 800,
+        "max": 990
       },
       {
         "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 386.0,
+        "max": 840.3
+      },
+      {
+        "id": "radiation",
         "min": 0.1,
-        "max": 1.0
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Watermelon",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 605.3,
+        "max": 1416.4
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Banana",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 347.5,
+        "max": 372.3
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Pear",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 177.5,
+        "max": 352.6
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Potato",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 611.2,
+        "max": 874.9
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Zuссhini",  
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 617.3,
+        "max": 718.9
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Strawberry",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 113.7,
+        "max": 1314.1
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Carrot",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 357.5,
+        "max": 718.3
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Cucumber",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 364.6,
+        "max": 2049.5
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Tomato",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 350.2,
+        "max": 1094.2
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Beetroot",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 381.8,
+        "max": 677.5
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
+      }
+    ]
+  },
+  {
+    "name": "Radish",
+    "params": [
+      {
+        "id": "temperature",
+        "min": 22,
+        "max": 30
+      },
+      {
+        "id": "humidity",
+        "min": 70,
+        "max": 90
+      },
+      {
+        "id": "pressure",
+        "min": 800,
+        "max": 990
+      },
+      {
+        "id": "alcohol",
+        "min": 1.0,
+        "max": 7.0
+      },
+      {
+        "id": "nitrates",
+        "min": 371.4,
+        "max": 2481.2
+      },
+      {
+        "id": "radiation",
+        "min": 0.1,
+        "max": 0.4
       }
     ]
   }
